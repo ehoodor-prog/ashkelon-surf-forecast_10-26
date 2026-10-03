@@ -5,170 +5,170 @@
     {
       "time": "2026-10-04 00:00",
       "hour": "00:00",
-      "swell_cm": 58,
-      "period_sec": 5.52,
-      "swell_direction_deg": 296
+      "swell_cm": 55,
+      "period_sec": 5.26,
+      "swell_direction_deg": 295
     },
     {
       "time": "2026-10-04 01:00",
       "hour": "01:00",
-      "swell_cm": 56,
-      "period_sec": 5.62,
-      "swell_direction_deg": 296
+      "swell_cm": 54,
+      "period_sec": 5.32,
+      "swell_direction_deg": 295
     },
     {
       "time": "2026-10-04 02:00",
       "hour": "02:00",
-      "swell_cm": 55,
-      "period_sec": 5.66,
-      "swell_direction_deg": 296
+      "swell_cm": 53,
+      "period_sec": 5.35,
+      "swell_direction_deg": 295
     },
     {
       "time": "2026-10-04 03:00",
       "hour": "03:00",
-      "swell_cm": 54,
-      "period_sec": 5.7,
+      "swell_cm": 53,
+      "period_sec": 5.36,
       "swell_direction_deg": 295
     },
     {
       "time": "2026-10-04 04:00",
       "hour": "04:00",
-      "swell_cm": 54,
-      "period_sec": 5.72,
-      "swell_direction_deg": 295
+      "swell_cm": 52,
+      "period_sec": 5.37,
+      "swell_direction_deg": 294
     },
     {
       "time": "2026-10-04 05:00",
       "hour": "05:00",
-      "swell_cm": 54,
-      "period_sec": 5.73,
-      "swell_direction_deg": 295
+      "swell_cm": 52,
+      "period_sec": 5.39,
+      "swell_direction_deg": 294
     },
     {
       "time": "2026-10-04 06:00",
       "hour": "06:00",
-      "swell_cm": 54,
-      "period_sec": 5.74,
-      "swell_direction_deg": 294
+      "swell_cm": 51,
+      "period_sec": 5.41,
+      "swell_direction_deg": 293
     },
     {
       "time": "2026-10-04 07:00",
       "hour": "07:00",
-      "swell_cm": 53,
-      "period_sec": 5.73,
-      "swell_direction_deg": 294
+      "swell_cm": 51,
+      "period_sec": 5.44,
+      "swell_direction_deg": 293
     },
     {
       "time": "2026-10-04 08:00",
       "hour": "08:00",
-      "swell_cm": 53,
-      "period_sec": 5.73,
-      "swell_direction_deg": 294
+      "swell_cm": 46,
+      "period_sec": 5.74,
+      "swell_direction_deg": 298
     },
     {
       "time": "2026-10-04 09:00",
       "hour": "09:00",
-      "swell_cm": 53,
-      "period_sec": 5.72,
-      "swell_direction_deg": 294
+      "swell_cm": 51,
+      "period_sec": 5.54,
+      "swell_direction_deg": 293
     },
     {
       "time": "2026-10-04 10:00",
       "hour": "10:00",
-      "swell_cm": 52,
-      "period_sec": 5.73,
-      "swell_direction_deg": 293
+      "swell_cm": 45,
+      "period_sec": 5.13,
+      "swell_direction_deg": 290
     },
     {
       "time": "2026-10-04 11:00",
       "hour": "11:00",
-      "swell_cm": 52,
-      "period_sec": 5.76,
-      "swell_direction_deg": 293
+      "swell_cm": 45,
+      "period_sec": 5.24,
+      "swell_direction_deg": 290
     },
     {
       "time": "2026-10-04 12:00",
       "hour": "12:00",
       "swell_cm": 52,
-      "period_sec": 6.01,
-      "swell_direction_deg": 293
+      "period_sec": 5.79,
+      "swell_direction_deg": 292
     },
     {
       "time": "2026-10-04 13:00",
       "hour": "13:00",
-      "swell_cm": 51,
-      "period_sec": 6.11,
-      "swell_direction_deg": 292
+      "swell_cm": 52,
+      "period_sec": 5.92,
+      "swell_direction_deg": 291
     },
     {
       "time": "2026-10-04 14:00",
       "hour": "14:00",
-      "swell_cm": 49,
-      "period_sec": 6.39,
-      "swell_direction_deg": 291
+      "swell_cm": 53,
+      "period_sec": 5.64,
+      "swell_direction_deg": 290
     },
     {
       "time": "2026-10-04 15:00",
       "hour": "15:00",
-      "swell_cm": 46,
-      "period_sec": 6.69,
-      "swell_direction_deg": 289
+      "swell_cm": 51,
+      "period_sec": 6.26,
+      "swell_direction_deg": 292
     },
     {
       "time": "2026-10-04 16:00",
       "hour": "16:00",
-      "swell_cm": 45,
-      "period_sec": 7.0,
-      "swell_direction_deg": 291
+      "swell_cm": 53,
+      "period_sec": 5.87,
+      "swell_direction_deg": 289
     },
     {
       "time": "2026-10-04 17:00",
       "hour": "17:00",
-      "swell_cm": 40,
-      "period_sec": 7.45,
-      "swell_direction_deg": 291
+      "swell_cm": 49,
+      "period_sec": 6.44,
+      "swell_direction_deg": 292
     },
     {
       "time": "2026-10-04 18:00",
       "hour": "18:00",
-      "swell_cm": 54,
-      "period_sec": 4.3,
-      "swell_direction_deg": 295
+      "swell_cm": 45,
+      "period_sec": 6.78,
+      "swell_direction_deg": 292
     },
     {
       "time": "2026-10-04 19:00",
       "hour": "19:00",
-      "swell_cm": 61,
-      "period_sec": 4.35,
-      "swell_direction_deg": 305
+      "swell_cm": 51,
+      "period_sec": 3.72,
+      "swell_direction_deg": 294
     },
     {
       "time": "2026-10-04 20:00",
       "hour": "20:00",
-      "swell_cm": 52,
-      "period_sec": 3.99,
-      "swell_direction_deg": 316
+      "swell_cm": 57,
+      "period_sec": 3.78,
+      "swell_direction_deg": 298
     },
     {
       "time": "2026-10-04 21:00",
       "hour": "21:00",
-      "swell_cm": 64,
-      "period_sec": 3.94,
-      "swell_direction_deg": 333
+      "swell_cm": 59,
+      "period_sec": 3.56,
+      "swell_direction_deg": 304
     },
     {
       "time": "2026-10-04 22:00",
       "hour": "22:00",
-      "swell_cm": 62,
-      "period_sec": 3.88,
-      "swell_direction_deg": 334
+      "swell_cm": 54,
+      "period_sec": 3.35,
+      "swell_direction_deg": 308
     },
     {
       "time": "2026-10-04 23:00",
       "hour": "23:00",
-      "swell_cm": 62,
-      "period_sec": 3.86,
-      "swell_direction_deg": 332
+      "swell_cm": 51,
+      "period_sec": 3.33,
+      "swell_direction_deg": 309
     }
   ]
 }
