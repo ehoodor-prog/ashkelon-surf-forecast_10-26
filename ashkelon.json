@@ -1,174 +1,174 @@
 {
   "location": "אשקלון",
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "forecast": [
     {
-      "time": "2026-10-07 00:00",
+      "time": "2026-10-08 00:00",
       "hour": "00:00",
-      "swell_cm": 38,
-      "period_sec": 3.54,
-      "swell_direction_deg": 289
+      "swell_cm": 59,
+      "period_sec": 5.54,
+      "swell_direction_deg": 296
     },
     {
-      "time": "2026-10-07 01:00",
+      "time": "2026-10-08 01:00",
       "hour": "01:00",
-      "swell_cm": 37,
-      "period_sec": 3.59,
-      "swell_direction_deg": 289
+      "swell_cm": 59,
+      "period_sec": 5.59,
+      "swell_direction_deg": 296
     },
     {
-      "time": "2026-10-07 02:00",
+      "time": "2026-10-08 02:00",
       "hour": "02:00",
-      "swell_cm": 37,
-      "period_sec": 3.65,
-      "swell_direction_deg": 290
+      "swell_cm": 65,
+      "period_sec": 4.93,
+      "swell_direction_deg": 302
     },
     {
-      "time": "2026-10-07 03:00",
+      "time": "2026-10-08 03:00",
       "hour": "03:00",
-      "swell_cm": 35,
-      "period_sec": 3.49,
-      "swell_direction_deg": 290
+      "swell_cm": 64,
+      "period_sec": 4.98,
+      "swell_direction_deg": 302
     },
     {
-      "time": "2026-10-07 04:00",
+      "time": "2026-10-08 04:00",
       "hour": "04:00",
-      "swell_cm": 34,
-      "period_sec": 3.47,
-      "swell_direction_deg": 290
+      "swell_cm": 63,
+      "period_sec": 5.0,
+      "swell_direction_deg": 302
     },
     {
-      "time": "2026-10-07 05:00",
+      "time": "2026-10-08 05:00",
       "hour": "05:00",
-      "swell_cm": 33,
-      "period_sec": 3.48,
-      "swell_direction_deg": 291
+      "swell_cm": 63,
+      "period_sec": 4.87,
+      "swell_direction_deg": 304
     },
     {
-      "time": "2026-10-07 06:00",
+      "time": "2026-10-08 06:00",
       "hour": "06:00",
-      "swell_cm": 32,
-      "period_sec": 3.46,
-      "swell_direction_deg": 291
+      "swell_cm": 64,
+      "period_sec": 4.61,
+      "swell_direction_deg": 309
     },
     {
-      "time": "2026-10-07 07:00",
+      "time": "2026-10-08 07:00",
       "hour": "07:00",
-      "swell_cm": 27,
-      "period_sec": 3.65,
-      "swell_direction_deg": 303
+      "swell_cm": 63,
+      "period_sec": 4.53,
+      "swell_direction_deg": 310
     },
     {
-      "time": "2026-10-07 08:00",
+      "time": "2026-10-08 08:00",
       "hour": "08:00",
-      "swell_cm": 31,
-      "period_sec": 6.74,
-      "swell_direction_deg": 293
+      "swell_cm": 63,
+      "period_sec": 4.44,
+      "swell_direction_deg": 311
     },
     {
-      "time": "2026-10-07 09:00",
+      "time": "2026-10-08 09:00",
       "hour": "09:00",
-      "swell_cm": 46,
-      "period_sec": 4.67,
-      "swell_direction_deg": 293
+      "swell_cm": 53,
+      "period_sec": 5.27,
+      "swell_direction_deg": 299
     },
     {
-      "time": "2026-10-07 10:00",
+      "time": "2026-10-08 10:00",
       "hour": "10:00",
-      "swell_cm": 49,
-      "period_sec": 4.77,
-      "swell_direction_deg": 293
+      "swell_cm": 51,
+      "period_sec": 5.23,
+      "swell_direction_deg": 299
     },
     {
-      "time": "2026-10-07 11:00",
+      "time": "2026-10-08 11:00",
       "hour": "11:00",
-      "swell_cm": 52,
-      "period_sec": 4.89,
-      "swell_direction_deg": 293
+      "swell_cm": 48,
+      "period_sec": 5.69,
+      "swell_direction_deg": 299
     },
     {
-      "time": "2026-10-07 12:00",
+      "time": "2026-10-08 12:00",
       "hour": "12:00",
-      "swell_cm": 54,
-      "period_sec": 5.07,
-      "swell_direction_deg": 293
+      "swell_cm": 45,
+      "period_sec": 5.76,
+      "swell_direction_deg": 298
     },
     {
-      "time": "2026-10-07 13:00",
+      "time": "2026-10-08 13:00",
       "hour": "13:00",
-      "swell_cm": 55,
-      "period_sec": 5.25,
-      "swell_direction_deg": 294
+      "swell_cm": 47,
+      "period_sec": 5.31,
+      "swell_direction_deg": 299
     },
     {
-      "time": "2026-10-07 14:00",
+      "time": "2026-10-08 14:00",
       "hour": "14:00",
-      "swell_cm": 56,
-      "period_sec": 5.45,
-      "swell_direction_deg": 293
+      "swell_cm": 37,
+      "period_sec": 6.08,
+      "swell_direction_deg": 300
     },
     {
-      "time": "2026-10-07 15:00",
+      "time": "2026-10-08 15:00",
       "hour": "15:00",
-      "swell_cm": 56,
-      "period_sec": 5.45,
-      "swell_direction_deg": 292
+      "swell_cm": 38,
+      "period_sec": 4.82,
+      "swell_direction_deg": 301
     },
     {
-      "time": "2026-10-07 16:00",
+      "time": "2026-10-08 16:00",
       "hour": "16:00",
-      "swell_cm": 54,
-      "period_sec": 5.99,
-      "swell_direction_deg": 292
+      "swell_cm": 49,
+      "period_sec": 4.95,
+      "swell_direction_deg": 300
     },
     {
-      "time": "2026-10-07 17:00",
+      "time": "2026-10-08 17:00",
       "hour": "17:00",
-      "swell_cm": 54,
-      "period_sec": 5.71,
-      "swell_direction_deg": 290
+      "swell_cm": 47,
+      "period_sec": 4.47,
+      "swell_direction_deg": 318
     },
     {
-      "time": "2026-10-07 18:00",
+      "time": "2026-10-08 18:00",
       "hour": "18:00",
-      "swell_cm": 50,
-      "period_sec": 6.42,
-      "swell_direction_deg": 293
+      "swell_cm": 53,
+      "period_sec": 4.48,
+      "swell_direction_deg": 323
     },
     {
-      "time": "2026-10-07 19:00",
+      "time": "2026-10-08 19:00",
       "hour": "19:00",
-      "swell_cm": 49,
-      "period_sec": 6.49,
-      "swell_direction_deg": 293
+      "swell_cm": 62,
+      "period_sec": 4.48,
+      "swell_direction_deg": 334
     },
     {
-      "time": "2026-10-07 20:00",
+      "time": "2026-10-08 20:00",
       "hour": "20:00",
-      "swell_cm": 49,
-      "period_sec": 6.56,
-      "swell_direction_deg": 293
+      "swell_cm": 69,
+      "period_sec": 4.41,
+      "swell_direction_deg": 342
     },
     {
-      "time": "2026-10-07 21:00",
+      "time": "2026-10-08 21:00",
       "hour": "21:00",
-      "swell_cm": 49,
-      "period_sec": 6.56,
-      "swell_direction_deg": 294
+      "swell_cm": 71,
+      "period_sec": 4.32,
+      "swell_direction_deg": 344
     },
     {
-      "time": "2026-10-07 22:00",
+      "time": "2026-10-08 22:00",
       "hour": "22:00",
-      "swell_cm": 50,
-      "period_sec": 6.47,
-      "swell_direction_deg": 294
+      "swell_cm": 68,
+      "period_sec": 4.33,
+      "swell_direction_deg": 345
     },
     {
-      "time": "2026-10-07 23:00",
+      "time": "2026-10-08 23:00",
       "hour": "23:00",
-      "swell_cm": 50,
-      "period_sec": 6.45,
-      "swell_direction_deg": 294
+      "swell_cm": 71,
+      "period_sec": 4.51,
+      "swell_direction_deg": 337
     }
   ]
 }
