@@ -1,0 +1,31 @@
+name: Diagnose Copernicus Wave Periods
+
+on:
+  workflow_dispatch:
+    inputs:
+      diagnostic_date:
+        description: "Historical date in YYYY-MM-DD format"
+        required: true
+        default: "2026-10-19"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      COPERNICUSMARINE_SERVICE_USERNAME: ${{ secrets.COPERNICUSMARINE_SERVICE_USERNAME }}
+      COPERNICUSMARINE_SERVICE_PASSWORD: ${{ secrets.COPERNICUSMARINE_SERVICE_PASSWORD }}
+      DIAGNOSTIC_DATE: ${{ inputs.diagnostic_date }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install copernicusmarine xarray pandas netCDF4
+      - name: Compare wave periods (read-only)
+        run: python diagnose_wave_periods.py
