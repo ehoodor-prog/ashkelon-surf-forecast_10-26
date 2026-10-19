@@ -31,6 +31,7 @@ cmd = [
     "-i", "cmems_mod_med_wav_anfc_4.2km_PT1H-i",
     "-v", "VHM0_SW1",
     "-v", "VTM01_SW1",
+    "-v", "VTPK",
     "-v", "VMDR_SW1",
     "-x", str(LON),
     "-X", str(LON),
@@ -48,7 +49,7 @@ subprocess.run(cmd, check=True)
 ds = xr.open_dataset(file)
 
 df = (
-    ds[["VHM0_SW1", "VTM01_SW1", "VMDR_SW1"]]
+    ds[["VHM0_SW1", "VTM01_SW1", "VTPK", "VMDR_SW1"]]
     .to_dataframe()
     .dropna()
     .reset_index()
@@ -68,13 +69,16 @@ for _, r in df.iterrows():
         "time": t.strftime("%Y-%m-%d %H:%M"),
         "hour": t.strftime("%H:%M"),
         "swell_cm": round(float(r["VHM0_SW1"]) * 100),
-        "period_sec": round(float(r["VTM01_SW1"]), 2),
+        "period_sec": round(float(r["VTPK"]), 1),
+        "swell_mean_period_sec": round(float(r["VTM01_SW1"]), 2),
         "swell_direction_deg": round(float(r["VMDR_SW1"]))
     })
 
 output = {
     "location": "אשקלון",
     "date": str(tomorrow),
+    "period_source": "Copernicus Marine VTPK",
+    "swell_mean_period_source": "Copernicus Marine VTM01_SW1",
     "forecast": rows
 }
 
