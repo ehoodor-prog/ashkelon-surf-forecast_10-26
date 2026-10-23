@@ -1,200 +1,200 @@
 {
   "location": "אשקלון",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "period_source": "Copernicus Marine VTPK",
   "swell_mean_period_source": "Copernicus Marine VTM01_SW1",
   "forecast": [
     {
-      "time": "2026-10-23 00:00",
+      "time": "2026-10-24 00:00",
       "hour": "00:00",
-      "swell_cm": 84,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.52,
-      "swell_direction_deg": 347
+      "swell_cm": 109,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 5.16,
+      "swell_direction_deg": 350
     },
     {
-      "time": "2026-10-23 01:00",
+      "time": "2026-10-24 01:00",
       "hour": "01:00",
-      "swell_cm": 82,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.37,
-      "swell_direction_deg": 348
+      "swell_cm": 107,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 5.04,
+      "swell_direction_deg": 350
     },
     {
-      "time": "2026-10-23 02:00",
+      "time": "2026-10-24 02:00",
       "hour": "02:00",
-      "swell_cm": 79,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.34,
-      "swell_direction_deg": 347
-    },
-    {
-      "time": "2026-10-23 03:00",
-      "hour": "03:00",
-      "swell_cm": 77,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.28,
-      "swell_direction_deg": 347
-    },
-    {
-      "time": "2026-10-23 04:00",
-      "hour": "04:00",
-      "swell_cm": 76,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.2,
-      "swell_direction_deg": 347
-    },
-    {
-      "time": "2026-10-23 05:00",
-      "hour": "05:00",
-      "swell_cm": 75,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.22,
-      "swell_direction_deg": 346
-    },
-    {
-      "time": "2026-10-23 06:00",
-      "hour": "06:00",
-      "swell_cm": 74,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.3,
-      "swell_direction_deg": 345
-    },
-    {
-      "time": "2026-10-23 07:00",
-      "hour": "07:00",
-      "swell_cm": 73,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.37,
-      "swell_direction_deg": 345
-    },
-    {
-      "time": "2026-10-23 08:00",
-      "hour": "08:00",
-      "swell_cm": 73,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.43,
-      "swell_direction_deg": 344
-    },
-    {
-      "time": "2026-10-23 09:00",
-      "hour": "09:00",
-      "swell_cm": 72,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.48,
-      "swell_direction_deg": 343
-    },
-    {
-      "time": "2026-10-23 10:00",
-      "hour": "10:00",
-      "swell_cm": 72,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.53,
-      "swell_direction_deg": 342
-    },
-    {
-      "time": "2026-10-23 11:00",
-      "hour": "11:00",
-      "swell_cm": 57,
-      "period_sec": 5.2,
+      "swell_cm": 105,
+      "period_sec": 5.7,
       "swell_mean_period_sec": 4.82,
-      "swell_direction_deg": 328
+      "swell_direction_deg": 350
     },
     {
-      "time": "2026-10-23 12:00",
-      "hour": "12:00",
-      "swell_cm": 71,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.59,
-      "swell_direction_deg": 341
-    },
-    {
-      "time": "2026-10-23 13:00",
-      "hour": "13:00",
-      "swell_cm": 69,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.62,
-      "swell_direction_deg": 341
-    },
-    {
-      "time": "2026-10-23 14:00",
-      "hour": "14:00",
-      "swell_cm": 67,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.58,
-      "swell_direction_deg": 340
-    },
-    {
-      "time": "2026-10-23 15:00",
-      "hour": "15:00",
-      "swell_cm": 65,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.61,
-      "swell_direction_deg": 341
-    },
-    {
-      "time": "2026-10-23 16:00",
-      "hour": "16:00",
-      "swell_cm": 63,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.64,
-      "swell_direction_deg": 341
-    },
-    {
-      "time": "2026-10-23 17:00",
-      "hour": "17:00",
-      "swell_cm": 60,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.89,
-      "swell_direction_deg": 340
-    },
-    {
-      "time": "2026-10-23 18:00",
-      "hour": "18:00",
-      "swell_cm": 19,
-      "period_sec": 4.7,
-      "swell_mean_period_sec": 6.49,
-      "swell_direction_deg": 326
-    },
-    {
-      "time": "2026-10-23 19:00",
-      "hour": "19:00",
-      "swell_cm": 26,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 4.1,
-      "swell_direction_deg": 295
-    },
-    {
-      "time": "2026-10-23 20:00",
-      "hour": "20:00",
-      "swell_cm": 36,
-      "period_sec": 5.2,
-      "swell_mean_period_sec": 6.01,
-      "swell_direction_deg": 312
-    },
-    {
-      "time": "2026-10-23 21:00",
-      "hour": "21:00",
-      "swell_cm": 71,
+      "time": "2026-10-24 03:00",
+      "hour": "03:00",
+      "swell_cm": 101,
       "period_sec": 5.7,
-      "swell_mean_period_sec": 5.47,
-      "swell_direction_deg": 325
-    },
-    {
-      "time": "2026-10-23 22:00",
-      "hour": "22:00",
-      "swell_cm": 75,
-      "period_sec": 5.7,
-      "swell_mean_period_sec": 6.59,
+      "swell_mean_period_sec": 4.73,
       "swell_direction_deg": 349
     },
     {
-      "time": "2026-10-23 23:00",
-      "hour": "23:00",
-      "swell_cm": 118,
+      "time": "2026-10-24 04:00",
+      "hour": "04:00",
+      "swell_cm": 99,
       "period_sec": 5.7,
-      "swell_mean_period_sec": 5.62,
+      "swell_mean_period_sec": 4.78,
+      "swell_direction_deg": 347
+    },
+    {
+      "time": "2026-10-24 05:00",
+      "hour": "05:00",
+      "swell_cm": 99,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.8,
       "swell_direction_deg": 346
+    },
+    {
+      "time": "2026-10-24 06:00",
+      "hour": "06:00",
+      "swell_cm": 99,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.69,
+      "swell_direction_deg": 345
+    },
+    {
+      "time": "2026-10-24 07:00",
+      "hour": "07:00",
+      "swell_cm": 98,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.78,
+      "swell_direction_deg": 344
+    },
+    {
+      "time": "2026-10-24 08:00",
+      "hour": "08:00",
+      "swell_cm": 97,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.84,
+      "swell_direction_deg": 343
+    },
+    {
+      "time": "2026-10-24 09:00",
+      "hour": "09:00",
+      "swell_cm": 96,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.87,
+      "swell_direction_deg": 342
+    },
+    {
+      "time": "2026-10-24 10:00",
+      "hour": "10:00",
+      "swell_cm": 95,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.88,
+      "swell_direction_deg": 342
+    },
+    {
+      "time": "2026-10-24 11:00",
+      "hour": "11:00",
+      "swell_cm": 93,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.86,
+      "swell_direction_deg": 341
+    },
+    {
+      "time": "2026-10-24 12:00",
+      "hour": "12:00",
+      "swell_cm": 91,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.85,
+      "swell_direction_deg": 341
+    },
+    {
+      "time": "2026-10-24 13:00",
+      "hour": "13:00",
+      "swell_cm": 89,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.88,
+      "swell_direction_deg": 341
+    },
+    {
+      "time": "2026-10-24 14:00",
+      "hour": "14:00",
+      "swell_cm": 87,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 4.93,
+      "swell_direction_deg": 341
+    },
+    {
+      "time": "2026-10-24 15:00",
+      "hour": "15:00",
+      "swell_cm": 79,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 5.26,
+      "swell_direction_deg": 341
+    },
+    {
+      "time": "2026-10-24 16:00",
+      "hour": "16:00",
+      "swell_cm": 56,
+      "period_sec": 5.7,
+      "swell_mean_period_sec": 6.04,
+      "swell_direction_deg": 346
+    },
+    {
+      "time": "2026-10-24 17:00",
+      "hour": "17:00",
+      "swell_cm": 59,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 6.01,
+      "swell_direction_deg": 347
+    },
+    {
+      "time": "2026-10-24 18:00",
+      "hour": "18:00",
+      "swell_cm": 62,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 6.01,
+      "swell_direction_deg": 348
+    },
+    {
+      "time": "2026-10-24 19:00",
+      "hour": "19:00",
+      "swell_cm": 96,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 5.17,
+      "swell_direction_deg": 341
+    },
+    {
+      "time": "2026-10-24 20:00",
+      "hour": "20:00",
+      "swell_cm": 95,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 5.17,
+      "swell_direction_deg": 342
+    },
+    {
+      "time": "2026-10-24 21:00",
+      "hour": "21:00",
+      "swell_cm": 99,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 5.09,
+      "swell_direction_deg": 345
+    },
+    {
+      "time": "2026-10-24 22:00",
+      "hour": "22:00",
+      "swell_cm": 98,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 4.97,
+      "swell_direction_deg": 346
+    },
+    {
+      "time": "2026-10-24 23:00",
+      "hour": "23:00",
+      "swell_cm": 97,
+      "period_sec": 5.2,
+      "swell_mean_period_sec": 4.69,
+      "swell_direction_deg": 347
     }
   ]
 }
